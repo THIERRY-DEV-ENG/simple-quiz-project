@@ -1,0 +1,19 @@
+
+:root {
+    --hue-neutral :200;
+    --hue-wrong : 0;
+    --hue-correct : 145;
+
+}
+
+body {
+    --hue: var(--hue-neutral);
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: hs(var(--hue), 100);
+
+}
