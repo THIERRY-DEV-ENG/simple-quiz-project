@@ -1,4 +1,4 @@
-# 🎓 Simple Quiz Web App
+# Simple Quiz Web App
 
 This is a basic quiz project created to practice and understand how HTML, CSS, and JavaScript work together in a web page.
 
@@ -8,7 +8,7 @@ This project was part of the **Simplilearn Web Development for Beginners** cours
 
 ---
 
-## 🧠 Purpose of This Project
+##  Purpose of This Project
 
 The goal of this project is to help beginners:
 
@@ -20,7 +20,7 @@ It’s a hands-on way to practice building something real while learning the bas
 
 ---
 
-## 👨‍💻 Built With
+##  Built With
 
 - HTML
 - CSS
